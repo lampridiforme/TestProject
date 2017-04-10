@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_hide_password.xml",
+        "source": "/Users/macroavis/.android/build-cache/a58af42f67f4d4598485a5082ac6a0217973ad3c/output/res/drawable-v21/avd_hide_password.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/design_password_eye.xml",
+        "source": "/Users/macroavis/.android/build-cache/a58af42f67f4d4598485a5082ac6a0217973ad3c/output/res/drawable-v21/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/macroavis/.android/build-cache/6016b09928f186d5cdd89e3114050291de82f16d/output/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/macroavis/.android/build-cache/6016b09928f186d5cdd89e3114050291de82f16d/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/macroavis/.android/build-cache/6016b09928f186d5cdd89e3114050291de82f16d/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/design_bottom_navigation_item_background.xml",
+        "source": "/Users/macroavis/.android/build-cache/a58af42f67f4d4598485a5082ac6a0217973ad3c/output/res/drawable-v21/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/macroavis/.android/build-cache/6016b09928f186d5cdd89e3114050291de82f16d/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/drawable-v21/avd_show_password.xml",
+        "source": "/Users/macroavis/.android/build-cache/a58af42f67f4d4598485a5082ac6a0217973ad3c/output/res/drawable-v21/avd_show_password.xml"
+    }
+]

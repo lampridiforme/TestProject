@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/macroavis/.android/build-cache/6016b09928f186d5cdd89e3114050291de82f16d/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/macroavis/.android/build-cache/6016b09928f186d5cdd89e3114050291de82f16d/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/macroavis/.android/build-cache/6016b09928f186d5cdd89e3114050291de82f16d/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/macroavis/.android/build-cache/6016b09928f186d5cdd89e3114050291de82f16d/output/res/layout-v21/notification_action.xml"
+    }
+]

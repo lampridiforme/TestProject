@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_in.xml",
+        "source": "/Users/macroavis/.android/build-cache/a58af42f67f4d4598485a5082ac6a0217973ad3c/output/res/anim-v21/design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "/Users/macroavis/AndroidStudioProjects/TestProject/app/build/intermediates/res/merged/debug/anim-v21/design_bottom_sheet_slide_out.xml",
+        "source": "/Users/macroavis/.android/build-cache/a58af42f67f4d4598485a5082ac6a0217973ad3c/output/res/anim-v21/design_bottom_sheet_slide_out.xml"
+    }
+]
